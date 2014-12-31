@@ -8,30 +8,55 @@ What Indexs This Toolbox Calculate
 26 in 1
 
 01Land-Area
+
 02Building-Area
+
 03FAR
+
 04Building-Density
+
 05Land-Use-Mix1
+
 06Land-Use-Mix2
+
 07PublicRoad-Ratio
+
 08Road-Density
+
 09Road-Area
+
 10City-Accessibility1
+
 11Green-Ratio
+
 12Road-Setback
+
 13SETBACKparcel
+
 14Height-Width-Ratio
+
 15Road-Grenn-Shade
+
 16Road-Retail-Ratio
+
 18Road-Right-Mix
+
 19Curb-Park
+
 20Illegal-Park
+
 21FrontPark
+
 22RoadWidth
+
 23Crossing-Density
+
 24Busstop-Density
+
 25City-Accessibility2
+
 26Crossing-Number
+
 
 
 How This Solves It
